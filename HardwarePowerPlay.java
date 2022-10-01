@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 
-public class HardwareFreightFrenzy { //<crServo> {
+public class HardwarePowerPlay { //<crServo> {
 
     //Wheels
     public DcMotor frontLeft;
